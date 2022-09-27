@@ -5,9 +5,13 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
+I wanted to make a website to make sure I have a clean notes to go to back to and review
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+Building this project gives me a little taste of what to come for the next few months in the bootcamp
 - What problem does it solve?
+This website gives me the space to have a clean notes and a place to go back and review notes
 - What did you learn?
+I'm gaining more knowledge on how to use Gitbash and Github.
 
 ## Table of Contents (Optional)
 
